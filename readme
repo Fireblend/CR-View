@@ -1,0 +1,31 @@
+
+		   ~Segundo proyecto programado - Computer Graphics~
+
+	 .d8888b.  8888888b.       888     888 d8b                        
+	d88P  Y88b 888   Y88b      888     888 Y8P                        
+	888    888 888    888      888     888                            
+	888        888   d88P      Y88b   d88P 888  .d88b.  888  888  888 
+	888        8888888P"        Y88b d88P  888 d8P  Y8b 888  888  888 
+	888    888 888 T88b   888888 Y88o88P   888 88888888 888  888  888 
+	Y88b  d88P 888  T88b          Y888P    888 Y8b.     Y88b 888 d88P 
+	 "Y8888P"  888   T88b          Y8P     888  "Y8888   "Y8888888P"   
+							
+							(c) 2009 Sergio Morales
+           
+	How-to:   
+       
+  	   1. Para compilar utilizar "make"
+	   2. Para compilar en limpio "make clean" y luego "make"
+	   3. Para ejecutar ./cr-view
+	   Nota: Se puede usar el script run.sh para hacer lo anterior en un paso.
+
+	Uso:
+
+	   'A','W','S','D' o teclas direccionales controlan pan
+	   'r', 't' controlan rotacion
+	   '0', '1', '2' controlan modo de dibujo
+	   '-','+' controlan zoom
+
+	Have fun :)
+
+		Si se tiene problemas con la ventana, utilizar metacity como administrador de ventanas.
